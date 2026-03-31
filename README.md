@@ -1,0 +1,1 @@
+Final Project for my Data Base Management course. We used PHP, SQL, and a little bit of HTML to build the website. You can add a car, a customer, an estimate, a mechanic, parts, and a description of repair. You can also update a car or a customer.
